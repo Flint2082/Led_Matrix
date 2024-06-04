@@ -1,5 +1,31 @@
 (kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid ceb06db9-8f49-4de4-b9ca-5fa52e791f62)
+
   (paper "A4")
-  (lib_symbols)
-  (symbol_instances)
+
+  (lib_symbols
+  )
+
+
+  (sheet (at 195.58 104.14) (size 59.69 46.99) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid a3320258-d968-4e72-b92b-b4db2ac30ec0)
+    (property "Sheetname" "LED's + driver" (at 195.58 103.4284 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "leds.kicad_sch" (at 195.58 151.7146 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "LED_MATRIX"
+        (path "/ceb06db9-8f49-4de4-b9ca-5fa52e791f62" (page "2"))
+      )
+    )
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
 )
