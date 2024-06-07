@@ -1,11 +1,11 @@
-# Led_Matrix
+# Led_Matrix_clock
 
-Ik wil een Led matrix maken. Dit wil ik doen als uidaging, om ervan te leren en voor mijn portfolio.
+Ik wil met een Led matrix een digitale klok maken. Dit wil ik doen als uidaging, om ervan te leren en voor mijn portfolio.
 Ik kies daarom niet altijd voor de makkelijkste oplossing.
 
 ## Analyse
 
-### Eisen / wensen
+### Eisen / wensen 
 
 - Display is minimaal 8 x 8 pixels groot
 - De module moet compact zijn
