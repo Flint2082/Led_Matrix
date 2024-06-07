@@ -474,7 +474,15 @@
     ],
     [
       "a3320258-d968-4e72-b92b-b4db2ac30ec0",
-      "LED's + driver"
+      "LED's + driver2"
+    ],
+    [
+      "a3ff2315-b251-4cab-81ec-e72c32e7cf01",
+      "LED's + driver1"
+    ],
+    [
+      "b86038d0-88e1-4dfa-a7c3-2aa939520ff6",
+      "Microcontroller"
     ]
   ],
   "text_variables": {}
